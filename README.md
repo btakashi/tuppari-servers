@@ -1,14 +1,14 @@
 # Tuppari Servers
 
-This repository includes administration server and broadcast server of Tuppari service.
+This repository includes the administration server and broadcast server of Tuppari service.
 
 ## Gyoji - Administration server
 
-Gyoji is a name of administration server of Tuppari.
+The Tuppari administration server is called "Gyoji".
 
 ## Harite - Broadcast server
 
-Harite is a name of broadcast server of Tuppari.
+The Tuppari broadcast server is called "Harite".
 
 ## License
 
