@@ -1,6 +1,6 @@
 # Tuppari Servers
 
-This repository includes the administration server and broadcast server of Tuppari service.
+This repository includes the administration server and broadcast server of the Tuppari service.
 
 ## Gyoji - Administration server
 
